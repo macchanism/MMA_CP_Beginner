@@ -1,0 +1,33 @@
+・書き始めの標準入力
+
+n = $stdin.gets.chomp.to_i
+
+arr = gets.chomp.split(' ').map(&:to_i)
+
+arr = Array.new()
+
+b,c=gets.chomp.split(" ").map(&:to_i);
+
+k,x = $stdin.gets.chomp.split(' ').map(&:to_i)
+
+n.times do |i|
+  x[i], y[i] = (gets.chomp.split(' ').map(&:to_i))
+end
+
+x, y = [], []
+n.times do |i|
+  x[i], y[i] = (gets.chomp.split(' ').map(&:to_i))
+end
+
+
+・雑多
+printは文字列そのまま＋改行しない
+putsはprint+改行する
+pは型の情報をそのまま（''とか…）
+
+timesの変数部分は0から指定値-1まで変化する
+stepは処理してる値
+
+配列内から探すのは .index() なかったらnilが返される
+
+joinで配列の中身をくっつけて返せる　.join(" ")なら半角スペースを入れてくっつけてくれる
