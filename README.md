@@ -11,9 +11,12 @@ MMA 仮入部員向け競プロ講習会 初心者コース
   3. 経験がある方は、中級者コースへ
 
 ## 担当
-  * initial_d
-  * KARASU4280
-  * maccha
+  * Ruby
+    - initial_d
+  * C++
+    - KARASU4280
+  * 司会進行、Python
+    - maccha
 
 ## 日程
 ### 第1回
