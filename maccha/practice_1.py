@@ -15,6 +15,4 @@ c = int(c_s)
 s = input()
 
 # 出力には、"print"
-print(a + b + c)
-# 通常はprintによる出力の最後には、改行がある
-print(s)
+print("{} {}".format(a + b + c, s))
