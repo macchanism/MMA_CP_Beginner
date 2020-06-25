@@ -1,1 +1,0 @@
-# MMA_CP_Beginner
