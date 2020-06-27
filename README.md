@@ -38,7 +38,7 @@ MMA 仮入部員向け競プロ講習会 初心者コース
 ## 内容
 これから、競プロを始める方に向けた内容です。
 
-事前に、[AtCoder](https://atcoder.jp/)と[GitHub](https://github.com/)のアカウントをご用意ください。
+**事前に、[AtCoder](https://atcoder.jp/)と[GitHub](https://github.com/)のアカウントをご用意ください。**
 
 ### 第1回
 この回では、プログラミング未経験の方が、競プロのためのプログラミング言語を選択をする機会となります。
